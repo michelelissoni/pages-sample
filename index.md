@@ -5,7 +5,7 @@ title: Home
 
 ## Welcome everyone to my spiffy site!
 
-Foo text (http://fillerama.io)
+[Foo text](http://fillerama.io)
 
 #### Here are some example pages:
 
